@@ -1,0 +1,6 @@
+C:\Users\jebp6\source\repos\userDomainAttack\bin\Debug\userDomainAttack.exe.config
+C:\Users\jebp6\source\repos\userDomainAttack\bin\Debug\userDomainAttack.exe
+C:\Users\jebp6\source\repos\userDomainAttack\bin\Debug\userDomainAttack.pdb
+C:\Users\jebp6\source\repos\userDomainAttack\obj\Debug\userDomainAttack.csproj.CoreCompileInputs.cache
+C:\Users\jebp6\source\repos\userDomainAttack\obj\Debug\userDomainAttack.exe
+C:\Users\jebp6\source\repos\userDomainAttack\obj\Debug\userDomainAttack.pdb
